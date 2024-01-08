@@ -1,0 +1,3 @@
+/mnt/c/Users/j3cka/python/C++/Main/build/CMakeFiles/Main.dir
+/mnt/c/Users/j3cka/python/C++/Main/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/j3cka/python/C++/Main/build/CMakeFiles/rebuild_cache.dir

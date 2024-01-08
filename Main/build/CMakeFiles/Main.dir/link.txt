@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Main.dir/Main.cpp.o CMakeFiles/Main.dir/tools/Logger.cpp.o CMakeFiles/Main.dir/window/Window.cpp.o -o Main  /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 /usr/lib/x86_64-linux-gnu/libvulkan.so /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so 
